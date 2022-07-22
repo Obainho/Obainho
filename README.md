@@ -1,6 +1,4 @@
-## Hi there, I'm Obinna - aka [iam_Obainho][Twitter] 👋 
-
-## I'm a Brother, Developer, and Teacher!!
+## Hi there, I'm Obinna👋 
 
 - 👀 I’m interested in Flutter, Dart and Tech in general
 - 👯 I’m looking to collaborate with other developers
