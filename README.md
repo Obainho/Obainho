@@ -1,11 +1,11 @@
 ## Hi there, I'm Obinna👋 
 
-- 👀 I’m interested in Flutter, Dart and Tech in general
-- 👯 I’m looking to collaborate with other developers
-- 🌱 I’m currently working as an IT support staff at Pioneer Ind. Ltd.
-- 💞️ I also develop and manage websites for business and personal use
-- 🥅 2022 Goals: Become a more equipped Full Stack developer
-- ⚡ Fun fact: I love to play video games and watch soccer
+- 👀 I’m interested in Flutter, UI designs, and Tech in general.
+- 👯 I’m looking to collaborate with other developers especially on Flutter projects.
+- 🌱 I’m currently working as an IT support staff/consultant.
+- 💞️ I also develop and manage websites for business and personal use.
+- 🥅 2022 Goals: Become a more equipped Full Stack developer.
+- ⚡ Fun fact: I love to play video games and watch soccer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
